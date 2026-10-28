@@ -1,0 +1,13 @@
+SON KULLANICI LİSANS SÖZLEŞMESİ
+
+Bu uygulama GPL 3.0 Lisansı altında sunulmaktadır.
+GPL 3.0 lisansının şartlarına uyduğunuz sürece bu yazılımı 
+kullanabilir, kopyalayabilir ve değiştirebilirsiniz.
+
+Yazılım "olduğu gibi", herhangi bir garanti olmaksızın sunulur. 
+Hiçbir durumda yazarlar veya telif hakkı sahipleri herhangi bir iddia, 
+hasar veya diğer yükümlülüklerden sorumlu tutulamaz.
+Lise projesi değerlendirmesi için bu sözleşmeyi okuduğunuzu 
+onaylamak amacıyla, lütfen "Kabul Ediyorum" butonunun kilidini açmak için 
+hemen aşağıda dinamik olarak oluşturulan 6 haneli doğrulama kodunu 
+ilgili metin kutusuna girin:
